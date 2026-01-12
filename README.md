@@ -3,9 +3,9 @@
 I'm a **Computer Science and Engineering** student, passionate about **blockchain** technology, **Web3**, and **smart contract development**. I’m always diving deep into new tech, exploring **Rust**, **Solana**, and **Python** for various projects.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GhostGamer6969/GhostGamer6969/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GhostGamer6969/GhostGamer6969/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GhostGamer6969/GhostGamer6969/output/github-contribution-grid-snake.svg">
 </picture>
 
 ### Currently working on:
