@@ -2,6 +2,12 @@
 
 I'm a **Computer Science and Engineering** student, passionate about **blockchain** technology, **Web3**, and **smart contract development**. I’m always diving deep into new tech, exploring **Rust**, **Solana**, and **Python** for various projects.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 ### Currently working on:
 - **Solana-based password manager** to store passwords securely on the blockchain.
 - **Telegram bot** using **FUSE** to sync documents and manage local storage with **Telethon**.
